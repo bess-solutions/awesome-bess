@@ -37,6 +37,8 @@ Battery Energy Storage Systems (BESS) are essential for modern grids to manage r
 
 ## Simulation & Battery Models
 
+- **[bess-modbus-simulator](https://github.com/bess-solutions/bess-modbus-simulator)** - Containerized Modbus TCP simulation server for hardware-in-the-loop and CI/CD testing of BESS control algorithms.
+
 - **[PyBaMM](https://www.pybamm.org/)** - Python Battery Mathematical Modelling. Solves physics-based DFN/SPM models for LFP/NMC cell degradation.
 - **[SimSES](https://github.com/TUM-EEN/SimSES)** - Simulation of Stationary Energy Storage Systems. Focuses on degradation-informed economic dispatch.
 - **[bess-optimizer](https://github.com/bess-solutions/bessai-pilot)** - MILP-based dispatch optimizer for intraday arbitrage and secondary reserves.
@@ -51,6 +53,8 @@ Battery Energy Storage Systems (BESS) are essential for modern grids to manage r
 ---
 
 ## Protocols & Communication
+
+- **[bess-device-profiles](https://github.com/bess-solutions/bess-device-profiles)** - Open JSON-schema register profiles and telemetry specifications for commercial/industrial inverters & BMS (Huawei, SMA, Victron, BYD, Deye, Tesla, GoodWe).
 
 - **[PyModbus](https://github.com/pymodbus-dev/pymodbus)** - A full Modbus protocol implementation in Python supporting TCP, RTU, and ASCII.
 - **[pydnp3](https://github.com/georgekarpenkov/pydnp3)** - Python bindings for the DNP3 (Distributed Network Protocol) stack.
