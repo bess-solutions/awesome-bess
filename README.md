@@ -41,7 +41,7 @@ Battery Energy Storage Systems (BESS) are essential for modern grids to manage r
 
 - **[PyBaMM](https://www.pybamm.org/)** - Python Battery Mathematical Modelling. Solves physics-based DFN/SPM models for LFP/NMC cell degradation.
 - **[SimSES](https://github.com/TUM-EEN/SimSES)** - Simulation of Stationary Energy Storage Systems. Focuses on degradation-informed economic dispatch.
-- **[bess-optimizer](https://github.com/bess-solutions/bessai-pilot)** - MILP-based dispatch optimizer for intraday arbitrage and secondary reserves.
+- **[open-bess-sandbox](https://github.com/bess-solutions/open-bess-sandbox)** - Multi-context Chilean BESS simulation sandbox (Utility SSCC, Generation Firm, BTM Peak Shaving).
 
 ---
 
